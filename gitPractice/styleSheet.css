@@ -1,4 +1,7 @@
 body {
     counter-reset: a;
     color: #000;
+
+    column-gap: a;
+    bottom: 21;
 }
